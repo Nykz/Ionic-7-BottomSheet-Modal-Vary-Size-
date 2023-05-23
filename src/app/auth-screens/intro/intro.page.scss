@@ -1,0 +1,25 @@
+swiper-container {
+    height: 100%;
+    div {
+        height: 100%;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        .transformButton {
+            // transform: translateY(80vh);
+            margin-top: 80vh;
+        }
+    }
+}
+
+// swiper-slide {
+//     width: 100%;
+//     height: 100%;
+// }
+
+// swiper-slide img {
+//     width: auto;
+//     max-width: 100%;
+//     height: auto;
+//     max-height: 100%;
+// }
